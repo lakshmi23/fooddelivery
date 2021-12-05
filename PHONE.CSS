@@ -1,0 +1,25 @@
+#home{
+    height: 280px;
+    flex-direction: column;
+    box-sizing: border-box;
+
+}
+#home::before{
+    height: 370px;
+}
+#navbar{
+    flex-direction: column;
+}
+.services{
+    flex-direction: column;
+
+}
+.footer{
+overflow: hidden;
+}
+#home p{
+    display: none;
+}
+.h1-heading{
+    margin-top: 28px;
+}
